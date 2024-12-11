@@ -1,0 +1,30 @@
+img {
+  vertical-align: middle;
+  border-style: none;
+  overflow: hidden;
+  height: 210px;
+  width: 210px;
+  border-radius: 20%;
+  border: 2px solid black;
+}
+
+.dropDown {
+  width: 80%;
+  margin: 20px;
+}
+
+.yellow .box {
+  background-color: Yellow;
+}
+
+.orange .box {
+  background-color: Orange;
+}
+
+.blue .box {
+  background-color: Blue;
+}
+
+.pink .box {
+  background-color: Pink;
+}
