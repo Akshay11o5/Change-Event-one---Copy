@@ -12,19 +12,3 @@ img {
   width: 80%;
   margin: 20px;
 }
-
-.yellow .box {
-  background-color: Yellow;
-}
-
-.orange .box {
-  background-color: Orange;
-}
-
-.blue .box {
-  background-color: Blue;
-}
-
-.pink .box {
-  background-color: Pink;
-}
